@@ -20,6 +20,8 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-original.svg" height="40" alt="go logo"  />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/unity/unity-original.svg" height="40" alt="go logo"  />
   <img width="12" />
 </div>
