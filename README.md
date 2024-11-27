@@ -1,9 +1,18 @@
+###
+
+<h3 align=""center">+--------------------------------------------------------------------------------------------------------------------+</h3>
+
+###
+
 <div align="center">
   <a href="https://www.youtube.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
   <a href="https://x.com/MrZoloVRC" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://vrchat.com/home/user/usr_6c3d706a-1065-461e-8632-86dc9e51ddc4" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=FFFFFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
 
@@ -41,9 +50,6 @@
 
 ###
 
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VRChat--MrZolo-000000" height="25" alt="Vrchat"  />
-  </a>
 
 
 
