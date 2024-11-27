@@ -12,9 +12,7 @@
 
 ###
 
-<div align="center">
-<h3 align="left">Language & Tools</h3>
-</div>
+<h3 align=""center">Language & Tools</h3>
 
 ###
 
