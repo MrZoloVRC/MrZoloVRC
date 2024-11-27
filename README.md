@@ -9,9 +9,13 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
+
 ###
+
 <h3 align="left">Language & Tools</h3>
+
 ###
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg" height="40" alt="go logo"  />
   <img width="12" />
