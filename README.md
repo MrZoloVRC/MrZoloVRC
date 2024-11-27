@@ -23,6 +23,8 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-original.svg" height="40" alt="go logo"  />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/MrZoloVRC/VRCUi/refs/heads/main/usharp-original-png.png" height="40" alt="go logo"  />
+  <img width="12" />
 </div>
 
 
